@@ -1,5 +1,5 @@
 NEURAL PDF DECODER v2.077
-A cyberpunk-themed PDF analysis web application with advanced AI-powered document summarization capabilities and immersive gaming audio effects.
+A PDF analysis web application with advanced AI-powered document summarization capabilities and immersive gaming audio effects.
 https://pdf-summarizer-three-beta.vercel.app/
 🎯 Features
 Core Functionality
